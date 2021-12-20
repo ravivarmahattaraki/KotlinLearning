@@ -1,0 +1,2 @@
+package kotlin_oops_concepts.sealed_class
+
